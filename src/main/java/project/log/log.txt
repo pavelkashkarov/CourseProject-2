@@ -1,0 +1,19 @@
+2023-07-03 16:03:38 Ошибка в конструкторе у класса Config
+2023-07-03 16:03:38 project.Server started!
+2023-07-03 16:04:36 project.Server started!
+2023-07-03 16:04:47 pablo cames now
+2023-07-03 16:04:55 pablo: Hello
+2023-07-03 16:05:16 pablo: How r u?
+2023-07-03 16:08:37 pablo has left
+2023-07-03 16:08:37 Закрытие потоков у класса Server$Connection
+2023-07-03 16:11:43 Petya cames now
+2023-07-03 16:11:50 Pablo cames now
+2023-07-03 16:11:56 Pablo: Hi
+2023-07-03 16:12:00 Petya: Hello
+2023-07-03 16:12:15 Pablo: How old r u?
+2023-07-03 16:12:19 Petya: 25
+2023-07-03 16:12:48 Pablo: 
+2023-07-03 16:12:48 Pablo has left
+2023-07-03 16:12:48 Закрытие потоков у класса Server$Connection
+2023-07-03 16:12:58 Petya has left
+2023-07-03 16:12:58 Закрытие потоков у класса Server$Connection
